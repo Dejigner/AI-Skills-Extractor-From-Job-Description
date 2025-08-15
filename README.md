@@ -17,10 +17,7 @@ This can help job seekers tailor their CVs to match exactly what hiring managers
 
 ## 📷 Demo
 
-**Example Job Description Input:**
-![Job Description Input](job_description.png)
-
-**Extracted Skills Output:**
+**Demo for Simple Job description and Extracted Skills Output:**
 ![Skills Extractor Output](skills_output.png)
 
 ---
