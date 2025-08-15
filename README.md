@@ -31,33 +31,31 @@ This can help job seekers tailor their CVs to match exactly what hiring managers
 ```bash
 git clone https://github.com/Dejigner/AI-Skills-Extractor-From-Job-Description.git
 cd AI-Skills-Extractor-From-Job-Description
-2️⃣ Install Requirements
-bash
-Copy
-Edit
+```
+
+### 2️⃣ Install Requirements
+```bash
 pip install -r requirements.txt
-3️⃣ Run the Script
-bash
-Copy
-Edit
+```
+
+###3️⃣ Run the Script
+```bash
 python skills_extractor.py
+```
+
 🛠 Tech Stack
 Python 3.8+
-
 spaCy
-
 NLP Skill Extraction Model
 
 📄 Example Output
-text
-Copy
-Edit
 Top Skills Found:
 - AWS
 - Google Cloud
 - Machine Learning
 - Python
 - SQL
+  
 📬 Contact
 Created by Jannah Ahmed
 LinkedIn: https://www.linkedin.com/in/jannah-abdelmawla/
